@@ -19,6 +19,7 @@ body {
 .card {
   background: #fff;
   padding: 3rem 5rem;
+  cursor: pointer;
 }
 
 .card p {
